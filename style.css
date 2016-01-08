@@ -1,0 +1,14 @@
+ul {
+  padding: 0;
+  margin-left: 5px;
+}
+
+li {
+  padding: 5px 10px;
+  list-style: none;
+}
+
+li:hover, li.selected {
+  background: #a4a3a3;
+  cursor: pointer;
+}

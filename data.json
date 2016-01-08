@@ -9,7 +9,7 @@
         "id": "22"
       }, {
         "name": "client",
-        "id": "22"
+        "id": "2"
       }]
     }, {
       "name": "DEP",
@@ -25,6 +25,9 @@
       "artifacts": [{
         "name": "test",
         "id": "322"
+      }, {
+        "name": "test",
+        "id": "2"
       }]
     }
 
