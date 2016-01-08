@@ -1,0 +1,32 @@
+{
+  "environments": [{
+      "name": "DEV",
+      "artifacts": [{
+        "name": "demo",
+        "id": "1234"
+      }, {
+        "name": "server",
+        "id": "22"
+      }, {
+        "name": "client",
+        "id": "22"
+      }]
+    }, {
+      "name": "DEP",
+      "artifacts": [{
+        "name": "client",
+        "id": "322"
+      }, {
+        "name": "server",
+        "id": "2256"
+      }]
+    }, {
+      "name": "DEV1",
+      "artifacts": [{
+        "name": "test",
+        "id": "322"
+      }]
+    }
+
+  ]
+}
